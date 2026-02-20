@@ -52,8 +52,7 @@ Steam CS:GO float scanner + arbitrage helper
 ## 📫 Connect With Me
 
 📌 GitHub: https://github.com/Kaanayhan
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayhankaan/)
+📸 Instagram: https://www.instagram.com/aayhankaan/
 
-📸 Instagram: https://www.instagram.com/aayhankaan/---
 
 ⭐ “Code, Learn, Repeat.”  
