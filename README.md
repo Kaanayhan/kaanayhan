@@ -1,65 +1,59 @@
 # Hi 👋 I'm Kaan Ayhan
 
-💻 Frontend Developer  
-🎯 Focused on Web Development & AI Projects  
-🚀 Building creative and functional web applications  
+💻 Frontend Developer & Java + Web Enthusiast  
+⚡ Building fun, useful and creative software projects  
+🔥 Passionate about coding, games, tools and AI  
 
 ---
 
 ## 🧠 About Me
 
-- 🔥 Passionate about coding and problem solving  
-- 🌍 Currently working on web-based projects  
-- 🦁 Developing a Zoo Website Project  
-- 🤖 Interested in Artificial Intelligence  
-- 🎓 Preparing for C# and Desktop Programming exams  
+- 💡 I build web apps, interactive UIs and practical tools  
+- 🎮 Interested in gaming-related utilities & automation  
+- 🧠 Currently learning C# & Desktop development  
+- 🚀 Always curious, always building
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
+HTML • CSS • JavaScript
 
-### 🧠 Backend & Tools
-- Firebase  
-- Supabase  
-- Git & GitHub  
+### ☁️ Backend & Tools
+Firebase • Supabase • Git & GitHub  
 
-### 🖥️ Learning
-- C#  
-- Desktop Applications  
+### 🎯 Languages
+Java • JavaScript  
+(C# in progress)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🦁 KaanZoo
-A zoo website project with multiple pages and interactive UI.  
+### 🦁 **KaanZoo**
+Zoo website with animal listings and user pages  
 🔗 https://github.com/Kaanayhan/Hayvnat_-dev
 
-### 🤖 Yapay Zeka Chatbot
-AI-powered chatbot interface using Together AI API.  
+### 🤖 **Yapay Zeka Chatbot**
+AI chatbot UI using Together AI API  
 🔗 https://github.com/Kaanayhan/Yapay_Zeka
 
-### ⚽ Java League Simulation
-4-team football league simulation in Java.  
-🔗 https://github.com/Kaanayhan
+### ⚽ **Java League Simulator**
+4-team Java league simulation app  
+🔗 https://github.com/Kaanayhan/Yapay_Zeka
+
+### 🎮 **Steam Csfloat Arbitraj**
+Steam CS:GO float scanner + arbitrage helper  
+🔗 https://github.com/Kaanayhan/Steam_Csfloat_Arbitraj
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect With Me
 
-![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaanayhan&show_icons=true&theme=radical)
+📌 GitHub: https://github.com/Kaanayhan
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayhankaan/)
 
----
+📸 Instagram: https://www.instagram.com/aayhankaan/---
 
-## 🌐 Connect With Me
-
-📌 GitHub: https://github.com/Kaanayhan  
-
----
-
-⭐ “Code. Improve. Repeat.”
+⭐ “Code, Learn, Repeat.”  
