@@ -18,16 +18,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-HTML • CSS • JavaScript
-
-### ☁️ Backend & Tools
-Firebase • Supabase • Git & GitHub  
-
-### 🎯 Languages
-Java • JavaScript  
-(C# in progress)
-
----
+HTML • CSS • JavaScript • TypeScript • Vue
 
 ## 🚀 Featured Projects
 
