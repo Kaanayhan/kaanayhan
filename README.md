@@ -39,13 +39,13 @@
 
 ### 🚀 Featured Projects
 
-* 🏪 **[KantinYonetim](https://github.com/Kaanayhan/KantinYonetim)**  
+* 🏪 **[Canteen Management](https://github.com/Kaanayhan/KantinYonetim)**  
   Canteen management system application.
 
 * 🦁 **[KaanZoo](https://github.com/Kaanayhan/Hayvnat_-dev)**  
   Zoo website with animal listings and user pages.
 
-* 🤖 **[Yapay Zeka Chatbot](https://github.com/Kaanayhan/Yapay_Zeka)**  
+* 🤖 **[Ai Chatbot](https://github.com/Kaanayhan/Yapay_Zeka)**  
   AI chatbot UI using Together AI API.
 
 * ⚽ **[Java League Simulator](https://github.com/Kaanayhan/Yapay_Zeka)**  
