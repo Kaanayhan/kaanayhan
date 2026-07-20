@@ -1,4 +1,4 @@
-# Hi 👋 I'm Kaan Ayhan a
+# Hi 👋 I'm Kaan Ayhan 
 
 **💻 Frontend Developer & Java + Web Enthusiast**  
 ⚡ Building fun, useful and creative software projects  
